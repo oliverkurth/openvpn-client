@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM resin/rpi-raspbian
 MAINTAINER David Personette <dperson@dperson.com>
 
 # Install openvpn
